@@ -1,0 +1,46 @@
+html,body {
+  height:100%
+}
+
+body {
+  padding-top: 5rem;
+}
+
+.bkgimg {
+  background-image: url(../images/backgnd.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100%;
+}
+
+.white {
+  background-color: white;
+}
+
+.starter-template {
+  padding: 3rem 1.5rem;
+  text-align: center;
+}
+
+.letter {
+  font-size: 36px;
+  padding: 10px;
+}
+
+.hidden {
+  display: none;
+}
+
+.card-image {
+  width:125px;
+}
+
+.left {
+  float:left;
+}
+
+
+
+
+
+
